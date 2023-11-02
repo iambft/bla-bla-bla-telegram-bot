@@ -1,9 +1,9 @@
-The bot to send messages to a chat
+The bot was created for a friends chat to send rundom messages.
 
 
 Fill in a .env file
 
-How to register a new bot in the telegram
+How to register a new bot
 https://core.telegram.org/bots/tutorial
 
 How to create a service account to access a Google sheets
